@@ -2,11 +2,11 @@
   "product": "ProduTime Admin Console",
   "channel": "stable",
   "latest": {
-    "version": "1.2.0",
-    "url": "https://github.com/georgekgr12/produtime-admin-releases/releases/download/v1.2.0/ProduTime-AdminConsole-1.2.0-x64.exe",
-    "releaseNotesUrl": "https://github.com/georgekgr12/produtime-admin-releases/releases/tag/v1.2.0",
+    "version": "1.2.1",
+    "url": "https://github.com/georgekgr12/produtime-admin-releases/releases/download/v1.2.1/ProduTime-AdminConsole-1.2.1-x64.exe",
+    "releaseNotesUrl": "https://github.com/georgekgr12/produtime-admin-releases/releases/tag/v1.2.1",
     "mandatory": false,
     "minSupportedVersion": "1.0.0",
-    "sha256": "7f3fa79cbd402d3fdd3e3e6fe0c98226812800733efec580f1add7c60d569ee5"
+    "sha256": "311583270a0514c19b8acb459b2a30fe93ab9f0ce6f349b676cdc5621b2fb1fd"
   }
 }
